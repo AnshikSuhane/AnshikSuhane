@@ -1,56 +1,60 @@
-👋 Hi there, I'm Anshik Suhane
-👤 About Me
-I'm a passionate Full Stack Developer dedicated to creating dynamic, scalable, and user-centric web applications. With a strong foundation in JavaScript, React.js, Node.js, and database technologies, I continuously explore and learn cutting-edge frameworks. I love solving problems with innovative solutions and contributing to open-source projects. Outside of coding, I stay updated with the latest tech trends and work on personal projects to sharpen my skills.
+# 👋 Hi there, I'm Anshik Suhane
 
-💻 Tech Stack
-Technology	Proficiency
-🌐 HTML5 & CSS3	🌟🌟🌟🌟🌟
-💻 JavaScript	🌟🌟🌟🌟🌟
-⚛ React.js	🌟🌟🌟🌟🌟
-🌐 Node.js	🌟🌟🌟🌟🌟
-📊 MongoDB	🌟🌟🌟🌟🌟
-🐍 Python	🌟🌟🌟🌟
-🔥 Firebase	🌟🌟🌟🌟
-🗄 MySQL	🌟🌟🌟🌟
-🎨 TailwindCSS	🌟🌟🌟
-🎯 Chakra UI	🌟🌟🌟
-🛠 GitHub	🌟🌟🌟🌟
-🎨 Figma	🌟🌟🌟
-🚀 Vercel & Netlify	🌟🌟🌟
-📈 Projects
-Calories Counter 🍎
+## 👤 About Me
+I'm a passionate Full Stack Developer dedicated to creating dynamic, scalable, and user-centric web applications. With a strong foundation in JavaScript, React.js, Node.js, and database technologies.
+
+## 💻 Tech Stack
+
+| Technology        | Proficiency     |
+|-------------------|-----------------|
+| 🌐 HTML5 & CSS3   | 🌟🌟🌟🌟🌟   |
+| 💻 JavaScript     | 🌟🌟🌟🌟🌟   |
+| ⚛ React.js       | 🌟🌟🌟🌟🌟    |
+| 🌐 Node.js        | 🌟🌟🌟🌟🌟   |
+| 📊 MongoDB        | 🌟🌟🌟🌟🌟   |
+| 🐍 Python         | 🌟🌟🌟🌟      |
+| 🔥 Firebase       | 🌟🌟🌟🌟      |
+| 🗄 MySQL          | 🌟🌟🌟🌟       |
+| 🎨 TailwindCSS    | 🌟🌟🌟         |
+| 🎯 Chakra UI      | 🌟🌟🌟         |
+| 🛠 GitHub         | 🌟🌟🌟🌟       |
+| 🎨 Figma          | 🌟🌟🌟         |
+| 🚀 Vercel & Netlify | 🌟🌟🌟       |
+
+## 📈 Projects
+
+### Calories Counter 🍎
 A simple and efficient app to calculate and track calorie intake. Perfect for those focusing on fitness and healthy eating habits.
 
-Features: Easy calorie input, real-time tracking, and user-friendly design.
+**Features:** Easy calorie input, real-time tracking, and user-friendly design.
 
-Technologies: React.js, Firebase, TailwindCSS
+**Technologies:** React.js, Firebase, TailwindCSS
 
-Health Track 🩺
+### Health Track 🩺
 A robust doctor appointment app to manage and book medical consultations efficiently.
 
-Features: Appointment scheduling, user authentication, and health tracking.
+**Features:** Appointment scheduling, user authentication, and health tracking.
 
-Technologies: React.js, Node.js, MongoDB, Firebase
+**Technologies:** React.js, Node.js, MongoDB, Firebase
 
-Fruit Store 🍇
+### Fruit Store 🍇
 A dynamic e-commerce platform for browsing and purchasing fresh fruits, designed with a clean and engaging interface.
 
-Features: Product catalog, shopping cart functionality, and secure checkout.
+**Features:** Product catalog, shopping cart functionality, and secure checkout.
 
-Technologies: React.js, Node.js, MongoDB, TailwindCSS
+**Technologies:** React.js, Node.js, MongoDB, TailwindCSS
 
-📚 Education
-🎓 10+2 (Commerce)
+## 📚 Education
 
-🏫 School: St. Paul Sr. Sec. School
+**🎓 10+2 (Commerce)**
 
-📅 Graduation Year: 2022
+**🏫 School:** St. Paul Sr. Sec. School
 
-🔎 Connect With Me
-🌐 GitHub: Anshik Suhane
+**📅 Graduation Year:** 2022
 
-🔗 LinkedIn: Anshik Suhane
+## 🔎 Connect With Me
 
-🌟 Portfolio: Visit Here
-
-📧 Email: anshiksuhane9@gmail.com
+- 🌐 **GitHub:** [Anshik Suhane](https://github.com/AnshikSuhane)
+- 🔗 **LinkedIn:** [Anshik Suhane](https://www.linkedin.com/in/anshik-suhane)
+- 🌟 **Portfolio:** [Visit Here](#)
+- 📧 **Email:** anshiksuhane9@gmail.com
