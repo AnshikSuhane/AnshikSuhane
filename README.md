@@ -55,6 +55,6 @@ A dynamic e-commerce platform for browsing and purchasing fresh fruits, designed
 ## 🔎 Connect With Me
 
 - 🌐 **GitHub:** [Anshik Suhane](https://github.com/AnshikSuhane)
-- 🔗 **LinkedIn:** [Anshik Suhane](https://www.linkedin.com/in/anshik-suhane)
-- 🌟 **Portfolio:** [AnshikSuhane Protfolio](https://euphonious-bublanina-9f5465.netlify.app)
+- 🔗 **LinkedIn:** [Anshik Suhane](https://www.linkedin.com/in/anshik-suhane-003a89316/?trk=opento_sprofile_details)
+- 🌟 **Portfolio:** [AnshikSuhane Protfolio](https://final-portfolio-anshik.netlify.app/)
 - 📧 **Email:** anshiksuhane9@gmail.com
