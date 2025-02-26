@@ -1,60 +1,21 @@
-# 👋 Hi there, I'm Anshik Suhane
+# 💫 About Me:
+👋 Hi there, I'm Anshik Suhane<br>👤 About Me<br>I'm a passionate Full Stack Developer dedicated to creating dynamic, scalable, and user-centric web applications. With a strong foundation in JavaScript, React.js, Node.js, and database technologies.<br><br>💻 Tech Stack<br>Technology	Proficiency<br>🌐 HTML5 & CSS3	🌟🌟🌟🌟🌟<br>💻 JavaScript	🌟🌟🌟🌟🌟<br>⚛ React.js	🌟🌟🌟🌟🌟<br>🌐 Node.js	🌟🌟🌟🌟🌟<br>📊 MongoDB	🌟🌟🌟🌟🌟<br>🐍 Python	🌟🌟🌟🌟<br>🔥 Firebase	🌟🌟🌟🌟<br>🗄 MySQL	🌟🌟🌟🌟<br>🎨 TailwindCSS	🌟🌟🌟<br>🎯 Chakra UI	🌟🌟🌟<br>🛠 GitHub	🌟🌟🌟🌟<br>🎨 Figma	🌟🌟🌟<br>🚀 Vercel & Netlify	🌟🌟🌟<br>📈 Projects<br>Calories Counter 🍎<br>A simple and efficient app to calculate and track calorie intake. Perfect for those focusing on fitness and healthy eating habits.<br><br>Features: Easy calorie input, real-time tracking, and user-friendly design.<br><br>Technologies: React.js, Firebase, TailwindCSS<br><br>Health Track 🩺<br>A robust doctor appointment app to manage and book medical consultations efficiently.<br><br>Features: Appointment scheduling, user authentication, and health tracking.<br><br>Technologies: React.js, Node.js, MongoDB, Firebase<br><br>Fruit Store 🍇<br>A dynamic e-commerce platform for browsing and purchasing fresh fruits, designed with a clean and engaging interface.<br><br>Features: Product catalog, shopping cart functionality, and secure checkout.<br><br>Technologies: React.js, Node.js, MongoDB, TailwindCSS<br><br>📚 Education<br>🎓 10+2 (Commerce)<br><br>🏫 School: St. Paul Sr. Sec. School<br><br>📅 Graduation Year: 2022<br><br>🔎 Connect With Me<br>🌐 GitHub: Anshik Suhane<br>🔗 LinkedIn: Anshik Suhane<br>🌟 Portfolio: AnshikSuhane Protfolio<br>📧 Email: anshiksuhane9@gmail.com
 
-## 👤 About Me
-I'm a passionate Full Stack Developer dedicated to creating dynamic, scalable, and user-centric web applications. With a strong foundation in JavaScript, React.js, Node.js, and database technologies.
 
-## 💻 Tech Stack
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AnshikSuhane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anshik Suhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anshik Suhane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anshik suhane) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anshik suhane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshiksuhane9@gmail.com) 
 
-| Technology        | Proficiency     |
-|-------------------|-----------------|
-| 🌐 HTML5 & CSS3   | 🌟🌟🌟🌟🌟   |
-| 💻 JavaScript     | 🌟🌟🌟🌟🌟   |
-| ⚛ React.js       | 🌟🌟🌟🌟🌟    |
-| 🌐 Node.js        | 🌟🌟🌟🌟🌟   |
-| 📊 MongoDB        | 🌟🌟🌟🌟🌟   |
-| 🐍 Python         | 🌟🌟🌟🌟      |
-| 🔥 Firebase       | 🌟🌟🌟🌟      |
-| 🗄 MySQL          | 🌟🌟🌟🌟       |
-| 🎨 TailwindCSS    | 🌟🌟🌟         |
-| 🎯 Chakra UI      | 🌟🌟🌟         |
-| 🛠 GitHub         | 🌟🌟🌟🌟       |
-| 🎨 Figma          | 🌟🌟🌟         |
-| 🚀 Vercel & Netlify | 🌟🌟🌟       |
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnshikSuhane&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnshikSuhane&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikSuhane&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 📈 Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnshikSuhane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Calories Counter 🍎
-A simple and efficient app to calculate and track calorie intake. Perfect for those focusing on fitness and healthy eating habits.
+---
+[![](https://visitcount.itsvg.in/api?id=AnshikSuhane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Features:** Easy calorie input, real-time tracking, and user-friendly design.
-
-**Technologies:** React.js, Firebase, TailwindCSS
-
-### Health Track 🩺
-A robust doctor appointment app to manage and book medical consultations efficiently.
-
-**Features:** Appointment scheduling, user authentication, and health tracking.
-
-**Technologies:** React.js, Node.js, MongoDB, Firebase
-
-### Fruit Store 🍇
-A dynamic e-commerce platform for browsing and purchasing fresh fruits, designed with a clean and engaging interface.
-
-**Features:** Product catalog, shopping cart functionality, and secure checkout.
-
-**Technologies:** React.js, Node.js, MongoDB, TailwindCSS
-
-## 📚 Education
-
-**🎓 10+2 (Commerce)**
-
-**🏫 School:** St. Paul Sr. Sec. School
-
-**📅 Graduation Year:** 2022
-
-## 🔎 Connect With Me
-
-- 🌐 **GitHub:** [Anshik Suhane](https://github.com/AnshikSuhane)
-- 🔗 **LinkedIn:** [Anshik Suhane](https://www.linkedin.com/in/anshik-suhane-003a89316/?trk=opento_sprofile_details)
-- 🌟 **Portfolio:** [AnshikSuhane Protfolio](https://final-portfolio-anshik.netlify.app/)
-- 📧 **Email:** anshiksuhane9@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
